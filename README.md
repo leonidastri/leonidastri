@@ -1,4 +1,4 @@
-Currently working as a DevOps Engineer in Utrecht, Greece. I like building software following good programming practices and I am most interested in Web Development, Computer Security, and Blockchain Technology.
+Currently working as a DevOps Engineer in Utrecht, Netherlands. I like building software following good programming practices and I am most interested in Web Development, Computer Security, and Blockchain Technology.
 
 I hold a [Master's degree in Computer Science](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2022&id=110) from the School of Informatics at the University of Edinburgh. I also hold a [Bachelor's degree in Computer Science](https://www.di.uoa.gr/) from the Department of Informatics and Telecommunications at the National and Kapodistrian University of Athens.
 
