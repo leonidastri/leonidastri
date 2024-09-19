@@ -11,9 +11,9 @@ Passionate about:
 
 ### 👨‍💻 My Journey So Far
 
-- **Software Engineer** @ [Navarino](https://navarino.co.uk/), focusing on scalable maritime software solutions.
-- **Software Engineer** @ [Blockchain Technology Lab](https://informatics.ed.ac.uk/blockchain), University of Edinburgh, working on cutting-edge blockchain research.
-- **Software Engineer** @ [PLaST Lab](http://plast-lab.github.io/), University of Athens, researching programming language security techniques.
+- **Software Engineer** @ [Navarino](https://navarino.co.uk/), Athens, Greece.
+- **Software Engineer** @ [Blockchain Technology Lab](https://informatics.ed.ac.uk/blockchain), University of Edinburgh.
+- **Software Engineer** @ [PLaST Lab](http://plast-lab.github.io/), University of Athens.
 
 ### 🎓 Academic Background
 
