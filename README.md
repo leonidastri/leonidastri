@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm **Leo Triantafyllou**  
-### DevOps Engineer | Software Engineer | AI and Blockchain Enthusiast  
+### Software Engineer | DevOps Engineer | AI and Blockchain Enthusiast  
 
 I am currently working as a **DevOps Engineer** at **Utrecht University** as part of the [Yoda](https://www.uu.nl/en/research/yoda) team. 
 
